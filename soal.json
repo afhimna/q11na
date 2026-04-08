@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Bina' dari أَتَى adalah bina’?",
+    "option_A": "نَاقِصٌ يَائِيٌّ",
+    "option_B": "نَاقِصٌ يَائِيٌّ وَمَهْمُوزُ فَاءٍ",
+    "option_C": "مَهْمُوزُ فَاءٍ",
+    "option_D": "صَحِيحٌ",
+    "option_E": "مُضَاعَفٌ",
+    "answer_index": "0",
+    "explanation": "Karena فَاءُ الْفِعْلِ hamzah dan لَامُ الْفِعْلِ huruf ‘illat yang asalnya يَاءٌ",
+    "": ""
+  },
+  {
+    "question": "Pergantian يَاءٌ menjadi أَلِفٌ dalam lafadz أَتَى masuk dalam qaidah الإِعْلَالِ nomor berapa?",
+    "option_A": "2",
+    "option_B": "4",
+    "option_C": "3",
+    "option_D": "1",
+    "option_E": "5",
+    "answer_index": "3",
+    "explanation": "Contoh صَانَ أَصْلُهُ صَوَنَ بَاعَ أَصْلُهُ بَيَعَ",
+    "": ""
+  },
+  {
+    "question": "Apa isim fa’il dari lafadz تَسْلِيمٌ?",
+    "option_A": "مُسَلِّمٌ",
+    "option_B": "مُسَلَّمٌ",
+    "option_C": "مُسَّلِّمٌ",
+    "option_D": "مُسَّلُّمٌ",
+    "option_E": "سَلَّمَ",
+    "answer_index": "2",
+    "explanation": "Tashrifannya yaitu سَلَّمَ يُسَلِّمُ تَسْلِيمًا تَسْلِمَةً تَسْلَامًا تِسْلَامًا مُسَلَّمًا فَهُوَ مُسَلِّمٌ وَذَاكَ مُسَلَّمٌ سَلِّمْ لَا تُسَلِّمْ مُسَلَّمٌ ٢",
+    "": ""
+  },
+  {
+    "question": "Apa isim maf’ul dari lafadz قَبُول?",
+    "option_A": "مَقْبُوْل",
+    "option_B": "مُقْبَل‎",
+    "option_C": "مَبْقُوْل‎",
+    "option_D": "مُقَبَّل",
+    "option_E": "مُقَابَل",
+    "answer_index": "0",
+    "explanation": "Tashrifannya yaitu قَبِلَ يَقْبَلُ قَبُوْلًا وَمَقْبَلًا فَهُوَ قَابِلٌ وَذَاكَ مَقْبُوْلٌ",
+    "": ""
+  },
+  {
+    "question": "Fi’il قَبِلَ يَقْبَلُ termasuk dalam fi’il mujarrad bab nomor?",
+    "option_A": "2",
+    "option_B": "1",
+    "option_C": "5",
+    "option_D": "3‎",
+    "option_E": "4",
+    "answer_index": "4",
+    "explanation": "Karena عَيْنُ الْفِعْلِ madhi kasrah dan mudhari’ fathah‎",
+    "": ""
+  },
+  {
+    "question": "Apa isim alat dari قَبِلَ يَقْبَلُ?",
+    "option_A": "مِقْبَل",
+    "option_B": "لَا تَقْبَل",
+    "option_C": "مَقْبُوْل",
+    "option_D": "Tidak ada‎",
+    "option_E": "اقْبَل",
+    "answer_index": "3",
+    "explanation": "Dalam bab ke-4 فِعْلٌ ثُلَاثِيٌّ مُجَرَّدٌ biasanya tidak memiliki اِسْمُ آلَةٍ.",
+    "": ""
+  },
+  {
+    "question": "Siapa yang paling ma’rifat antara lafadz حَقُّهُ dan التَّسْلِيمُ?",
+    "option_A": "عَلَمٌ",
+    "option_B": "التَّسْلِيمُ‎",
+    "option_C": "حَقُّهُ",
+    "option_D": "ال‎",
+    "option_E": "سَامٍ‎",
+    "answer_index": "2",
+    "explanation": "Lafadz yang diidhofahkan kepada isim dhomir lebih ma’rifat dari pada lafadz yang dimasuki ال",
+    "": ""
+  },
+  {
+    "question": "dalam bait إِيمَانُنَا بِيَوْمٍ آخِرٍ وَجَبْ * وَكُلِّ مَا كَانَ بِهِ مِنَ الْعَجَبْ, apa shigot dari lafadz إِيمَانٌ?",
+    "option_A": "اِسْمُ مَفْعُولٍ",
+    "option_B": "اِسْمُ زَمَانٍ",
+    "option_C": "اِسْمُ مَكَانٍ",
+    "option_D": "اِسْمُ فَاعِلٍ",
+    "option_E": "مَصْدَرٌ",
+    "answer_index": "4",
+    "explanation": "Tashrifannya yaitu آمَنَ يُؤْمِنُ إِيمَانًا وَمُؤْمَنًا فَهُوَ مُؤْمِنٌ وَذَاكَ مُؤْمَنٌ آمِنْ لَا تُؤْمِنْ مُؤْمَنٌ ٢",
+    "": ""
+  },
+  {
+    "question": "Dalam bait إِيمَانُنَا بِيَوْمٍ آخِرٍ وَجَبْ * وَكُلِّ مَا كَانَ بِهِ مِنَ الْعَجَبْ, Lafadz وَجَبَ beserta fa’ilnya ditarkib menjadi?",
+    "option_A": "ظَرْفٌ",
+    "option_B": "حَالٌ",
+    "option_C": "تَمْيِيزٌ",
+    "option_D": "خَبَرٌ",
+    "option_E": "فَاعِلٌ",
+    "answer_index": "3",
+    "explanation": "Keduanya adalah penyempurna lafadz إِيمَانُنَا yang menjadi مُبْتَدَأٌ.",
+    "": ""
+  },
+  {
+    "question": "Bina’ dari lafadz وَجَبَ adalah?",
+    "option_A": "نَاقِصٌ يَائِيٌّ",
+    "option_B": "مِثَالٌ وَاوِيٌّ",
+    "option_C": "مِثَالٌ يَائِيٌّ",
+    "option_D": "نَاقِصٌ وَاوِيٌّ",
+    "option_E": "مَهْمُوزُ فَاءٍ",
+    "answer_index": "1",
+    "explanation": "Karena فَاءُ الْفِعْلِ huruf ‘illat berupa وَاوٌ",
+    "": ""
+  },
+  {
+    "question": "Jika lafadz وَجَبَ dipindah ke wazan افْتَعَلَ, maka akan menjadi?",
+    "option_A": "أَوْتَبَ",
+    "option_B": "اوْتَجَبَ",
+    "option_C": "اتَّجَبَ",
+    "option_D": "اوْجَبَتَ",
+    "option_E": "أَوْجَبَ",
+    "answer_index": "2",
+    "explanation": "Contoh: وَقَى – اتَّقَى، وَصَلَ – اتَّصَلَ",
+    "": ""
+  },
+  {
+    "question": "Dalam bait tersebut, siapa yang paling ma’rifat antara إِيمَانُنَا dan مَا?",
+    "option_A": "ال",
+    "option_B": "مَا",
+    "option_C": "عَلَمٌ",
+    "option_D": "سَامٍ",
+    "option_E": "إِيمَانُنَا",
+    "answer_index": "4",
+    "explanation": "Idlofah pada dlomir setara dengan kemakrifatan isim alam yang mana hal ini lebih makrifat dari pada isim maushul",
+    "": ""
+  },
+  {
+    "question": "Kalimat مِنْ yang ada dalam bait إِيمَانُنَا بِيَوْمٍ آخِرٍ وَجَبْ * وَكُلِّ مَا كَانَ بِهِ مِنَ الْعَجَبْ adalah huruf jer yang berfaedah?",
+    "option_A": "ظَرْفِيَّةٌ",
+    "option_B": "بَيَانِيَّةٌ",
+    "option_C": "ابْتِدَاءُ الْغَايَةِ",
+    "option_D": "تَبْعِيضٌ",
+    "option_E": "مُقَابَلَةٌ",
+    "answer_index": "1",
+    "explanation": "Disebutkan dalam Alfiyah قَالَ فِي الْخُلَاصَةِ: وَزِيدَ وَالظَّرْفِيَّةُ اسْتُبِينَ بِبَا * وَفِي وَقَدْ يُبَيِّنَانِ السَّبَبَا",
+    "": ""
+  },
+  {
+    "question": "Faedah umum dari huruf jer كَافٌ adalah?",
+    "option_A": "اسْتِعْلَاءٌ",
+    "option_B": "انْتِهَاءُ الْغَايَةِ",
+    "option_C": "ظَرْفِيَّةٌ",
+    "option_D": "تَشْبِيهٌ",
+    "option_E": "مُجَاوَرَةٌ",
+    "answer_index": "3",
+    "explanation": "Disebutkan dalam Alfiyah قال الشيخ ابْنُ مَالِكٍ في الْخُلَاصَةِ: شُبِّهَ بِكَافٍ وَبِهَا التَّعْلِيلُ قَدْ * يُعْنَى وَزَائِدًا لِتَوْكِيدٍ وَرَدْ",
+    "": ""
+  },
+  {
+    "question": "Amal dari كَانَ adalah?",
+    "option_A": "تَجْزِمُ الِاسْمَ وَالْخَبَرَ",
+    "option_B": "تَنْصِبُ الِاسْمَ وَتَرْفَعُ الْخَبَرَ",
+    "option_C": "تَنْصِبُ الِاسْمَ وَالْخَبَرَ",
+    "option_D": "تَرْفَعُ الِاسْمَ وَالْخَبَرَ",
+    "option_E": "تَرْفَعُ الِاسْمَ وَتَنْصِبُ الْخَبَرَ",
+    "answer_index": "3",
+    "explanation": "Merofa’kan isim (yang dulu mubtada’) dan menashobkan khobar",
+    "": ""
+  },
+  {
+    "question": "Di bawah ini saudara كَانَ yang beramal tanpa syarat adalah?",
+    "option_A": "لَيْسَ",
+    "option_B": "فَتِئَ",
+    "option_C": "اِنْفَكَّ",
+    "option_D": "بَرِحَ",
+    "option_E": "دَامَ",
+    "answer_index": "0",
+    "explanation": "contoh لَيْسَ زَيْدٌ قَائِمًا",
+    "": ""
+  },
+  {
+    "question": "Dalam bait خَاتِمَةٌ فِي ذِكْرِ بَاقِي الْوَاجِبِ * مِمَّا عَلَى مُكَلَّفٍ مِنْ وَاجِبٍ, apa i'rob dari lafadz بَاقِي?",
+    "option_A": "Rofa'",
+    "option_B": "Nashob",
+    "option_C": "Jer",
+    "option_D": "Jazm",
+    "option_E": "Fath",
+    "answer_index": "2",
+    "explanation": "I'robnya jer karena menjadi mudlof ilaih dari lafadz ذِكْرِ",
+    "": ""
+  },
+  {
+    "question": "Jika lafadz بَاقِي dibaca nashob maka akan menjadi?",
+    "option_A": "بَاقِي",
+    "option_B": "بَاقِيًا",
+    "option_C": "بَاقَايَا",
+    "option_D": "بَقِيَا",
+    "option_E": "بَاق",
+    "answer_index": "1",
+    "explanation": "Isim manqus dibaca nashob dengan fathah dlohiroh selain nashob i'robnya muqoddaroh",
+    "": ""
+  },
+  {
+    "question": "Jika ذَكَرَ diikutkan wazan تَفَعَّلَ maka akan menjadi?",
+    "option_A": "تَذَكَّرَ",
+    "option_B": "تَذَاكَرَ",
+    "option_C": "تَذْكُرُ",
+    "option_D": "تَرَكَّذَ",
+    "option_E": "اتَّكَرَ",
+    "answer_index": "0",
+    "explanation": "Tashrifannya yaitu تَذَكَّرَ يَتَذَكَّرُ تَذَكُّرًا وَمُتَذَكِّرًا فَهُوَ مُتَذَكِّرٌ وَذَاكَ مُتَذَكَّرٌ تَذَكَّرْ لَا تَتَذَكَّرْ مُتَذَكَّرٌ ٢.",
+    "": ""
+  },
+  {
+    "question": "Apa faedah umum yang dimiliki wazan تَفَعَّلَ?",
+    "option_A": "تَعْدِيَةٌ",
+    "option_B": "طَلَبٌ",
+    "option_C": "تَكْثِيرٌ",
+    "option_D": "مُشَارَكَةٌ",
+    "option_E": "مُطَاوَعَةٌ",
+    "answer_index": "4",
+    "explanation": "Muthowa'ah adalah imbas (reaksi) setelah terjadinya fi'il مُتَعَدٍّ contoh عَلَّمْتُ زَيْدًا فَتَعَلَّمَ.",
+    "": ""
+  }
+]
